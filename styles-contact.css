@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/bricksbg.jpg)
+  background: url(images/osman-rana-KzTF42LFAac-unsplash.jpg)
         center center fixed no-repeat;
     background-size: cover;
 	
@@ -71,50 +71,46 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(58, 130, 118, .70); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 4px dashed white;
 }
 
    
 #logo {
     margin-bottom: 16px;
-	border: 3px dashed red;
 	text-align: center;
 }
 
 h1 {
-	font-family: optima, serif;
+	font-family: Optima, serif;
 	font-size: 2em;
     margin: 0px auto 10px auto;
-    color: #fff;
+    color: #F9F5E8;
 }
 
 h2 {
-    font-family: optima, sans-serif
+    font-family: North Avellion;
 	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: #F9F5E8;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
 
 p {
-	font-family: garmond, serif;
+	font-family: Optima, sans-serif;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: #fff;
+    color: #F9F5E8;
 }
     
     
 
 nav{
-    font-family: optima;
+    font-family: Avenir;
     font-size: 1.2em;
     width: 400px;
     margin: 0 auto;
-    border: dashed turquoise;
-    border-width: 3px 0;
     text-align: center;
     margin-top: 2em;   
     }
@@ -128,12 +124,12 @@ nav a{
     padding: 10px;
     }
 a{
-    color: beige;
+    color: #F9F5E8;
     text-decoration: none;
     font-weight: bold;
     }
 
 a:hover{
-    color: black;
-    background: pink;
+    color: #3A8276;
+    background: #EAEFB2;
     }
